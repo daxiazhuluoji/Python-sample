@@ -16,6 +16,7 @@ print(secondstr)
 print(newstr)
 
 
+
 #shile and switch
 #inputchar = 0
 #while inputchar != 'a':
